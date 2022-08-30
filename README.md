@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++, C, Python, Lisp, Java!
 - ⭐ High knowledge of database (NoSQL): MongoDB, Redis, RabbitMQ!
 - ✔️ Average knowledge of databases (NoSQL): MongoDB, Redis, RabbitMQ!
+- ✍️ Also follow me in the second account (https://github.com/HashCodeMath)
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MathsAnalisys&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  

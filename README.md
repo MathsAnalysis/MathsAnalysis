@@ -4,4 +4,12 @@
 - ⭐ High knowledge of database (NoSQL): MongoDB, Redis, RabbitMQ!
 - ✔️ Average knowledge of databases (NoSQL): MongoDB, Redis, RabbitMQ!
 
-| <a href="https://github.com/MathsAnalisys/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MathsAnalisys&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MathsAnalisys's github stats" /></a> | <a href="https://github.com/MathsAnalisys/github-readme-stats">
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MathsAnalisys&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/> 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MathsAnalisys&&style=flat-square" align="center" />
+</div>  
+<br/>  
+<div align="center"></div>
+<br />

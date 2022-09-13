@@ -1,4 +1,4 @@
-- Hi 👋, I'm Carlo, and i'm still an engineering student!
+- Hi 👋, I'm Carlo, and i'm still an Computer Science!
 - I love software developing and hardware ❤️!
 - I am currently working for <a href=https://github.com/MysticSoftware>Mystic Software<a/>
 

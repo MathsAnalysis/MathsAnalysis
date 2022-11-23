@@ -1,6 +1,6 @@
 - Hi 👋, I'm Carlo, and i'm still an Computer Science!
 - I love software developing and hardware ❤️!
-- I am currently working for <a href=https://github.com/MysticSoftware>Mystic Software<a/>
+- I am currently working for <a href=https://github.com/Spectral-Development>SpectralMC Software<a/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathsanalisys&show_icons=true&locale=en" alt="mathsanalisys" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathsanalisys&" alt="mathsanalisys" /></p>

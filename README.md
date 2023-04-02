@@ -1,5 +1,4 @@
-<html>
-    <head>
+<head>
         <title>MathAnalisys</title>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -50,4 +49,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="git" width="40" height="40"/>
     <br>
     &nbsp; 
-</html>

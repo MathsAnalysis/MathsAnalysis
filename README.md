@@ -17,7 +17,7 @@
             &nbsp; 
             <img src="https://github-readme-stats.vercel.app/api?username=mathsanalisys&count_private=true&show_icons=true&theme=prussian" alt="https://github.com/mathsanalisys">
             &nbsp;
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsanalisys&hide_progress=false" alt="https://github.com/mathsanalisys">
+            <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsanalisys&hide_progress=false" alt="https://github.com/mathsanalisys">
         </p>
         <br>
     </body>

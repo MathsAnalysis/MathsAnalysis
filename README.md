@@ -15,9 +15,9 @@
             &nbsp;
             <img width="250"  class="Statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=mathsanalisys&" alt="mathsanalisys" />
             &nbsp; 
-            <img width="250" src="https://github-readme-stats.vercel.app/api?username=mathsanalisys&count_private=true&show_icons=true&theme=prussian" alt="https://github.com/mathsanalisys">
+            <img width="300" src="https://github-readme-stats.vercel.app/api?username=mathsanalisys&count_private=true&show_icons=true&theme=prussian" alt="https://github.com/mathsanalisys">
             &nbsp;
-            <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsanalisys&hide_progress=false" alt="https://github.com/mathsanalisys">
+            <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsanalisys&hide_progress=false" alt="https://github.com/mathsanalisys">
         </p>
         <br>
     </body>

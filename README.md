@@ -1,9 +1,7 @@
-<head>
-        <title>MathAnalisys</title>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@500&display=swap" rel="stylesheet">    
-    </head>
+
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@500&display=swap" rel="stylesheet">    
     <body>
         <link rel="stylesheet" href="style.css">
         <h1 class="Information">Information</h1>

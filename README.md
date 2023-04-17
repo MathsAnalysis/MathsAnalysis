@@ -13,11 +13,11 @@
 <h2 class="Information">Statistics</h2>
 <p>
 &nbsp;
-<img width="350"  class="Statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=mathsanalisys&" alt="mathsanalisys" />
+<img width="350"  class="Statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=mathsanalisys&" alt="mathsanalysis" />
 &nbsp; 
-<img width="300" src="https://github-readme-stats.vercel.app/api?username=mathsanalisys&count_private=true&show_icons=true&theme=prussian" alt="https://github.com/mathsanalisys">
+<img width="300" src="https://github-readme-stats.vercel.app/api?username=mathsanalisys&count_private=true&show_icons=true&theme=prussian" alt="https://github.com/mathsanalysis">
 &nbsp;
-<img width="300" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsanalisys&hide_progress=false" alt="https://github.com/mathsanalisys">
+<img width="300" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsanalisys&hide_progress=false" alt="https://github.com/mathsanalysis">
 </p>
 <br>
 </body>

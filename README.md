@@ -18,6 +18,7 @@
 <img width="300" src="https://github-readme-stats.vercel.app/api?username=mathsanalysis&count_private=true&show_icons=true&theme=prussian" alt="https://github.com/mathsanalysis">
 &nbsp;
 <img width="300" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsanalysis&hide_progress=false" alt="https://github.com/mathsanalysis">
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/437636365463584778)](https://discord.com/users/437636365463584778)
 </p>
 <br>
 </body>

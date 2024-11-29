@@ -44,9 +44,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
   </a>
   <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40">
   </a>
-  <a href="https://redis.io" target="_blank">
+  <a href="https://redis.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40">
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
@@ -55,13 +55,13 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
   </a>
-  <a href="https://www.postgresql.org" target="_blank">
+  <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40">
   </a>
   <a href="https://cassandra.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachecassandra/apachecassandra-original-wordmark.svg" alt="Cassandra" width="40" height="40">
+    <img src="https://cdn.worldvectorlogo.com/logos/apache-cassandra.svg" alt="Cassandra" width="40" height="40">
   </a>
-  <a href="https://www.rabbitmq.com" target="_blank">
+  <a href="https://www.rabbitmq.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40">
   </a>
   <a href="https://www.php.net/" target="_blank">
@@ -92,16 +92,16 @@
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40">
   </a>
   <a href="https://www.perl.org/" target="_blank">
-    <img src="https://api.iconify.design/logos-perl.svg" alt="Perl" width="40" height="40">
+    <img src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg" alt="Perl" width="40" height="40">
   </a>
   <a href="https://fsharp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="F#" width="40" height="40">
+    <img src="https://cdn.worldvectorlogo.com/logos/fsharp.svg" alt="F#" width="40" height="40">
   </a>
   <a href="https://gradle.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40">
   </a>
   <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachemaven/apachemaven-original.svg" alt="Maven" width="40" height="40">
+    <img src="https://cdn.worldvectorlogo.com/logos/apache-maven.svg" alt="Maven" width="40" height="40">
   </a>
   <a href="https://ant.apache.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Apache_Ant_logo.svg" alt="Apache Ant" width="40" height="40">

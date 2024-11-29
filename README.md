@@ -98,13 +98,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="F#" width="40" height="40">
   </a>
   <a href="https://gradle.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40">
   </a>
   <a href="https://maven.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40">
   </a>
   <a href="https://ant.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheant/apacheant-original-wordmark.svg" alt="Apache Ant" width="40" height="40">
+    <img src="https://www.vectorlogo.zone/logos/apache_ant/apache_ant-icon.svg" alt="Apache Ant" width="40" height="40">
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
@@ -126,7 +126,7 @@
   <a href="https://github.com/mathsanalysis" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:mathsanalysis@example.com" target="_blank">
+  <a href="mailto:carlo4340@outlook.it" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>

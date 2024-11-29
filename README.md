@@ -59,10 +59,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40">
   </a>
   <a href="https://cassandra.apache.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-cassandra.svg" alt="Cassandra" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachecassandra/apachecassandra-original-wordmark.svg" alt="Cassandra" width="40" height="40">
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40">
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
@@ -83,37 +83,36 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
   </a>
   <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="40" height="40">
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40">
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40">
   </a>
   <a href="https://www.perl.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg" alt="Perl" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" width="40" height="40">
   </a>
   <a href="https://fsharp.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/fsharp.svg" alt="F#" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="F#" width="40" height="40">
   </a>
   <a href="https://gradle.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40">
   </a>
   <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-maven.svg" alt="Maven" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40">
   </a>
   <a href="https://ant.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Apache_Ant_logo.svg" alt="Apache Ant" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheant/apacheant-original-wordmark.svg" alt="Apache Ant" width="40" height="40">
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
   </a>
 </p>
-
 ---
 
 ## 🚀 Featured Project: MineHS Network

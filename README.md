@@ -13,7 +13,7 @@
 - 👤 Hi, my name is **Carlo**, I'm 22 years old, and I'm from **Italy**.  
 - 🎓 I'm a Computer Science student at the **University of Catania**.  
 - 💻 I'm passionate about **programming** and always looking for new challenges.  
-- 🔭 I'm currently working on the **[MineHS Network](https://github.com/MineHs)**, a Minecraft server project.  
+- 🔭 I'm currently working on the **[MineHS Network](https://git.minehs.com)**, a Minecraft server project.  
 - 🌱 I’m learning and improving my skills in **Java**, **Bash**, **C++**, **MongoDB**, and **React**.  
 - 💬 Ask me about **Minecraft plugins**, **backend development**, or **system optimizations**.  
 - 📫 How to reach me: **mathsanalysis@example.com** (replace with your email).  
@@ -76,12 +76,7 @@
 
 ## 🚀 Featured Project: MineHS Network
 <p>
-  <strong>[MineHS Network](https://github.com/MineHS)</strong> is a Minecraft server project designed to deliver unique features, plugins, and optimizations for better performance and scalability.
-</p>
-<p align="center">
-  <a href="https://github.com/MineHS" target="_blank">
-    <img src="https://media.discordapp.net/attachments/990325355485229107/1090036318647631992/image](https://cdn.discordapp.com/attachments/1303749710238056552/1311938429625565184/MineHS_1-02.jpg?ex=674aad60&is=67495be0&hm=af7f3eda5675c3b449e7a47598e363e556364824ee918be61bfe251bec51bb8d.png" alt="MineHS Network Logo" width="200">
-  </a>
+  <strong>[MineHS Network](https://git.minehs.com)</strong> is a Minecraft server project designed to deliver unique features, plugins, and optimizations for better performance and scalability.
 </p>
 
 ---

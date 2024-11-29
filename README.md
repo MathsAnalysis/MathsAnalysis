@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e359d723-b478-46fc-b397-0aa64ec546e9)<h1 align="center">Hi there, I'm Carlo! 👋</h1>
+<h1 align="center">Hi there, I'm Carlo! 👋</h1>
 <h3 align="center">A passionate Computer Science student and developer from Italy 🇮🇹</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 - 🔭 I'm currently working on the **[MineHS Network](https://git.minehs.com)**, a Minecraft server project.  
 - 🌱 I’m learning and improving my skills in **Java**, **Bash**, **C++**, **MongoDB**, and **React**.  
 - 💬 Ask me about **Minecraft plugins**, **backend development**, or **system optimizations**.  
-- 📫 How to reach me: **mathsanalysis@example.com** (replace with your email).  
+- 📫 How to reach me: **carlo4340@outlook.it**.  
 
 ---
 
@@ -75,9 +75,7 @@
 ---
 
 ## 🚀 Featured Project: MineHS Network
-<p>
-  <strong>[MineHS Network](https://git.minehs.com)</strong> is a Minecraft server project designed to deliver unique features, plugins, and optimizations for better performance and scalability.
-</p>
+**[MineHS Network](https://git.minehs.com)** is a Minecraft server project designed to deliver unique features, plugins, and optimizations for better performance and scalability.
 
 ---
 

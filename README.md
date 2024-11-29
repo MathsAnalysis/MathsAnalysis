@@ -103,9 +103,6 @@
   <a href="https://maven.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40">
   </a>
-  <a href="https://ant.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheant/apacheant-original-wordmark.svg" alt="Apache Ant" width="40" height="40">
-  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
   </a>

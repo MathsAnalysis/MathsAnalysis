@@ -63,12 +63,6 @@ Hey there! I'm **Carlo**, a **23-year-old Computer Engineer** based in **Catania
   <a href="mailto:carlo4340@outlook.it" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="https://www.linkedin.com/in/carlo-engineer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://twitter.com/carlo_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-  </a>
 </p>
 
 ---

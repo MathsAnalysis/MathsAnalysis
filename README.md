@@ -1,4 +1,4 @@
-# 👾 **Welcome to Carlo's World of Engineering** 🚀
+[# 👾 **Welcome to Carlo's World of Engineering** 🚀
 
 <p align="center">
   <img src="https://imgur.com/a/YMAiOZP" alt="Carlo's Banner" width="100%" />
@@ -83,3 +83,4 @@ Hey there! I'm **Carlo**, a **23-year-old Computer Engineer** based in **Catania
 ## 💥 **Fun Fact:**
 I’m a **tech enthusiast** with a passion for **gaming**, and **engineering** runs through my veins. When I’m not coding, you’ll find me experimenting with **machine learning models**, **building hardware projects**, or playing the latest tech games. Let’s build the future!
 ****
+](https://hastebin.com/share/hibucakota.xml)

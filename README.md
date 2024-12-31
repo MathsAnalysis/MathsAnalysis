@@ -12,8 +12,7 @@
 ## 📝 About Me
 - 👤 Hi, my name is **Carlo**, I'm 22 years old, and I'm from **Italy**.  
 - 🎓 I'm a Computer Science student at the **University of Catania**.  
-- 💻 I'm passionate about **programming** and always looking for new challenges.  
-- 🔭 I'm currently working on the **[MineHS Network](https://git.minehs.com)**, a Minecraft server project.  
+- 💻 I'm passionate about **programming** and always looking for new challenges.
 - 🌱 I’m learning and improving my skills in **Java**, **Bash**, **C++**, **MongoDB**, and **React**.  
 - 💬 Ask me about **Minecraft plugins**, **backend development**, or **system optimizations**.  
 - 📫 How to reach me: **carlo4340@outlook.it**.  

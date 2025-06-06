@@ -10,7 +10,7 @@
 ---
 
 ## 📝 About Me
-- 👤 Hi, my name is **Carlo**, I'm 22 years old, and I'm from **Italy**.  
+- 👤 Hi, my name is **Carlo**, I'm 24 years old, and I'm from **Italy**.  
 - 🎓 I'm a Computer Science student at the **University of Catania**.  
 - 💻 I'm passionate about **programming** and always looking for new challenges.
 - 🌱 I’m learning and improving my skills in **Java**, **Bash**, **C++**, **MongoDB**, and **React**.  

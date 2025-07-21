@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=230&section=header&text=Carlo&fontSize=80&fontAlignY=35&desc=Backend%20Developer%20%26%20Security%20Specialist&descAlignY=60&animation=fadeIn" alt="header"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+digital+workspace+%F0%9F%91%8B;Building+secure+backends+that+scale+%F0%9F%9A%80;Let's+create+something+amazing+together!" alt="Typing SVG" />
 </div>
 
@@ -157,8 +153,7 @@ const carlo = {
   
   <br/><br/>
   
-  <!-- Visitor Count with Animation -->
-  <img src="https://profile-counter.glitch.me/mathsanalysis/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 </div>
 
 ---

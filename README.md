@@ -28,21 +28,21 @@ When I'm not in front of the terminal, I'm probably still in front of the termin
 ```java
 public class Carlo extends Developer {
 
-    private final String location  = "Catania, Sicily 🌋";
-    private final String focus     = "Backend · Security · Performance";
+    private final String location = "Catania, Sicily 🌋";
+    private final String focus = "Backend · Security · Performance";
     private final String education = "Computer Science @ UniCT";
-    private final String org       = "Axiom Enterprise";
+    private final String org = "Axiom Enterprise";
 
     @Override
     public List<String> currentlyBuilding() {
         return List.of(
-            "AntiVPN API      — VPN/Proxy detection @ antivpn.mathsanalysis.com",
+            "AntiVPN API — VPN/Proxy detection @ antivpn.mathsanalysis.com",
             "Axiom Enterprise — next big thing, stay tuned"
         );
     }
 
     @Override
-    public String coffeeStatus() { return "always(); /* non-negotiable */"; }
+    public String coffeeStatus() { return "always(); /* not negotiable */"; }
 }
 ```
 

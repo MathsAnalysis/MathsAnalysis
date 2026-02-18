@@ -28,15 +28,15 @@ When I'm not in front of the terminal, I'm probably still in front of the termin
 ```java
 public class Carlo extends Developer {
 
-    private final String location = "Catania, Sicily 🌋";
-    private final String focus = "Backend · Security · Performance";
+    private final String location  = "Catania, Sicily 🌋";
+    private final String focus     = "Backend · Security · Performance";
     private final String education = "Computer Science @ UniCT";
-    private final String org = "Axiom Enterprise";
+    private final String org       = "Axiom Enterprise";
 
     @Override
     public List<String> currentlyBuilding() {
         return List.of(
-            "AntiVPN API — VPN/Proxy detection @ antivpn.mathsanalysis.com",
+            "AntiVPN API      — VPN/Proxy detection @ antivpn.mathsanalysis.com",
             "Axiom Enterprise — next big thing, stay tuned"
         );
     }
@@ -117,13 +117,10 @@ Work in progress — like everything worth doing.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-psi-six-38.vercel.app/api?username=mathsanalysis&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=F97316&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&cache_seconds=86400" />
-<img width="49%" src="https://github-readme-stats-psi-six-38.vercel.app/api/top-langs/?username=mathsanalysis&layout=compact&hide_border=true&title_color=F97316&text_color=c9d1d9&bg_color=0d1117&langs_count=6&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats-eight-phi-55.vercel.app/api?username=mathsanalysis&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=F97316&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats-eight-phi-55.vercel.app/api/top-langs/?username=mathsanalysis&layout=compact&hide_border=true&title_color=F97316&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
 
-<img width="98%" src="https://streak-stats.demolab.com?user=mathsanalysis&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=FF4458&currStreakLabel=F97316&cache_seconds=86400" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathsanalysis&theme=transparent" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mathsanalysis&theme=transparent&utcOffset=1" />
+<img width="98%" src="https://streak-stats.demolab.com?user=mathsanalysis&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=FF4458&currStreakLabel=F97316" />
 
 </div>
 

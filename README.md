@@ -1,163 +1,176 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+digital+workspace+%F0%9F%91%8B;Building+secure+backends+that+scale+%F0%9F%9A%80;Let's+create+something+amazing+together!" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <a href="https://github.com/mathsanalysis"><img src="https://img.shields.io/badge/🇮🇹_Catania-24_years-FF4458?style=for-the-badge&labelColor=1a1a1a&logo=google-maps&logoColor=white" alt="Location"></a>
-  <a href="mailto:carlo4340@outlook.it"><img src="https://img.shields.io/badge/Available_for_hire-Contact_me-00D9FF?style=for-the-badge&labelColor=1a1a1a&logo=gmail&logoColor=white" alt="Hire Me"></a>
-  <a href="https://github.com/mathsanalysis"><img src="https://komarev.com/ghpvc/?username=mathsanalysis&style=for-the-badge&color=A277FF&labelColor=1a1a1a" alt="Profile Views"></a>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=600&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&width=620&height=140&lines=%24+java+--enable-preview+-jar+carlo.jar;%3E+Initializing+backend+systems...+%E2%9C%93;%3E+Security+protocols%3A++ONLINE+%E2%9C%93;%3E+Coffee+level%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+80%25;%3E+Status%3A+BUILDING+THINGS+THAT+MATTER+%F0%9F%9A%80" alt="terminal" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Carlo+Maria+Card%C3%AC+%F0%9F%8C%8B;Java+Backend+Dev+%7C+Security+Enthusiast+%7C+Catania+%F0%9F%8C%8B" alt="Typing SVG" />
 
 <br/>
 
-<!-- Animated Contribution Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+<a href="https://antivpn.mathsanalysis.com"><img src="https://img.shields.io/badge/🛡️_antivpn.mathsanalysis.com-live-FF4458?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://github.com/Axiom-Enterprise"><img src="https://img.shields.io/badge/🏢_Axiom_Enterprise-org-A277FF?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="mailto:carlo4340@outlook.it"><img src="https://img.shields.io/badge/📬_hire_me-open_to_work-00D9FF?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://komarev.com/ghpvc/?username=mathsanalysis"><img src="https://komarev.com/ghpvc/?username=mathsanalysis&style=for-the-badge&color=F97316&labelColor=0d1117&label=profile+views" /></a>
+
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+---
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```javascript
-const carlo = {
-  age: 24,
-  location: "Catania, Italy 🌋",
-  education: "CS @ University of Catania",
-  
-  expertise: {
-    backend: ["API Design", "Microservices", "System Architecture"],
-    security: ["Penetration Testing", "OWASP", "Threat Analysis"],
-    mindset: "Security-first development"
-  },
-  
-  dailyRoutine: [
-    "☕ Coffee",
-    "💻 Code", 
-    "🔒 Secure",
-    "🚀 Deploy",
-    "🔁 Repeat"
-  ],
-  
-  currentlyExploring: "AI Security & Web3"
-};
+### 👋 About Me
+
+Hey, I'm **Carlo** a backend developer based in **Catania 🌋**, Computer Science student at the University of Catania, and founder of [Axiom Enterprise](https://github.com/Axiom-Enterprise).
+
+I live and breathe **Java**, **Spring Boot**, and late nights optimizing things that already work fine but could work *better*. Security isn't an afterthought for me it's the starting point.
+
+When I'm not in front of the terminal, I'm probably still in front of the terminal.
+
+```java
+public class Carlo extends Developer {
+
+    private final String location = "Catania, Sicily 🌋";
+    private final String focus = "Backend · Security · Performance";
+    private final String education = "Computer Science @ UniCT";
+    private final String org = "Axiom Enterprise";
+
+    @Override
+    public List<String> currentlyBuilding() {
+        return List.of(
+            "AntiVPN API — VPN/Proxy detection @ antivpn.mathsanalysis.com",
+            "Axiom Enterprise — next big thing, stay tuned"
+        );
+    }
+
+    @Override
+    public String coffeeStatus() { return "always(); /* non-negotiable */"; }
+}
 ```
 
 <br clear="right"/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
+---
+
+### 🛠️ Stack
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
+**Backend & Runtime**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+**Database & Cache**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Security**
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Pen Testing](https://img.shields.io/badge/Pen_Testing-FF0000?style=flat-square&logo=hackaday&logoColor=white)
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Live Projects
+---
 
-<div align="center">
-  
-### 🚀 Building Products That Matter
+### 🚀 Projects
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://antivpn.cc">
-        <img src="https://img.shields.io/badge/🛡️_AntiVPN-Security_Service-FF4458?style=for-the-badge&labelColor=1a1a1a" alt="AntiVPN"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/10M+-API_Calls/month-2563EB?style=flat-square" alt="API Calls"/>
-      <img src="https://img.shields.io/badge/<50ms-Response_Time-00D9FF?style=flat-square" alt="Response"/>
-      <br/>
-      <sub>Enterprise VPN/Proxy Detection</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://devbase.cc">
-        <img src="https://img.shields.io/badge/💻_DevBase-Developer_Platform-A277FF?style=for-the-badge&labelColor=1a1a1a" alt="DevBase"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/500+-Active_Devs-2563EB?style=flat-square" alt="Users"/>
-      <img src="https://img.shields.io/badge/+40%25-Monthly_Growth-00D9FF?style=flat-square" alt="Growth"/>
-      <br/>
-      <sub>Tools & Resources for Developers</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Kaos-Network">
-        <img src="https://img.shields.io/badge/🎮_Kaos_Network-Game_Infrastructure-00D9FF?style=for-the-badge&labelColor=1a1a1a" alt="Kaos"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/1000+-Players-2563EB?style=flat-square" alt="Players"/>
-      <img src="https://img.shields.io/badge/99.9%25-Uptime-00D9FF?style=flat-square" alt="Uptime"/>
-      <br/>
-      <sub>High-Performance Game Servers</sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ [AntiVPN API](https://antivpn.mathsanalysis.com)**
+
+Enterprise-grade VPN & proxy detection API.
+Built for those who want to keep bots, fraudsters, and everything that hides behind a tunnel far away.
+
+![Status](https://img.shields.io/badge/status-live-FF4458?style=flat-square&labelColor=0d1117)
+![Latency](https://img.shields.io/badge/<50ms-latency-F97316?style=flat-square&labelColor=0d1117)
+
+</td>
+<td width="50%" valign="top">
+
+**🏢 [Axiom Enterprise](https://github.com/Axiom-Enterprise)**
+
+The organization where I build the more serious stuff.
+Work in progress — like everything worth doing.
+
+![Org](https://img.shields.io/badge/GitHub-Axiom--Enterprise-A277FF?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
 </table>
 
-</div>
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mathsanalysis&show_icons=true&count_private=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsanalysis&layout=compact&hide_border=true&title_color=2563EB&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathsanalysis&theme=tokyo-night&bg_color=0D1117&color=2563EB&line=2563EB&point=FF4458&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> What I Bring to Your Team
+### 📊 GitHub Stats
 
 <div align="center">
 
-| 🎯 Skill | 💡 Value |
-|----------|----------|
-| **Backend Architecture** | Design scalable systems handling millions of requests |
-| **Security Implementation** | Protect your data with enterprise-grade security |
-| **Performance Optimization** | Reduce latency and improve user experience |
-| **Problem Solving** | Turn complex challenges into elegant solutions |
-| **Team Collaboration** | Clear communication and agile methodologies |
+<img width="49%" src="https://github-readme-stats-psi-six-38.vercel.app/api?username=mathsanalysis&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=F97316&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats-psi-six-38.vercel.app/api/top-langs/?username=mathsanalysis&layout=compact&hide_border=true&title_color=F97316&text_color=c9d1d9&bg_color=0d1117&langs_count=6&cache_seconds=86400" />
+
+<img width="98%" src="https://streak-stats.demolab.com?user=mathsanalysis&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=FF4458&currStreakLabel=F97316&cache_seconds=86400" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathsanalysis&theme=transparent" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mathsanalysis&theme=transparent&utcOffset=1" />
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="25"> Let's Connect!
+---
+
+### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
-  <h3>🚀 Ready to Build Something Amazing Together?</h3>
-  
-  <a href="mailto:carlo4340@outlook.it">
-    <img src="https://img.shields.io/badge/Email_Me-carlo4340%40outlook.it-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/mathsanalysis">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-mathsanalysis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Response_Time-<_24_hours-00D9FF?style=for-the-badge&labelColor=1a1a1a" alt="Response Time"/>
-  
-  <br/><br/>
-  
-  <img src="https://profile-counter.deno.dev/MathsAnalysis/count.svg" alt="Key:: Visitor's Count" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
+### 📬 Get in Touch
+
+<div align="center">
+
+Got an interesting project, an impossible bug, or just want to talk about garbage collectors at 2am:
+
+<br/>
+
+<a href="mailto:carlo4340@outlook.it">
+  <img src="https://img.shields.io/badge/Email-carlo4340%40outlook.it-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/mathsanalysis">
+  <img src="https://img.shields.io/badge/GitHub-@mathsanalysis-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/Axiom-Enterprise">
+  <img src="https://img.shields.io/badge/Org-Axiom_Enterprise-A277FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Response_time-< 24h-00D9FF?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Based_in-Catania,_Sicily 🌋-F97316?style=flat-square&labelColor=0d1117" />
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=made%20with%20%E2%98%95%20and%20too%20many%20JVM%20flags&fontSize=14&fontColor=888888&fontAlignY=75" />
 </div>
